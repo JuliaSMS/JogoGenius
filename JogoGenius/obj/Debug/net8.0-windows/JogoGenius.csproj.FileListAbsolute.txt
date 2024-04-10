@@ -1,0 +1,17 @@
+C:\Users\T_Julia.stefany\source\repos\JogoGenius\JogoGenius\bin\Debug\net8.0-windows\JogoGenius.exe
+C:\Users\T_Julia.stefany\source\repos\JogoGenius\JogoGenius\bin\Debug\net8.0-windows\JogoGenius.deps.json
+C:\Users\T_Julia.stefany\source\repos\JogoGenius\JogoGenius\bin\Debug\net8.0-windows\JogoGenius.runtimeconfig.json
+C:\Users\T_Julia.stefany\source\repos\JogoGenius\JogoGenius\bin\Debug\net8.0-windows\JogoGenius.dll
+C:\Users\T_Julia.stefany\source\repos\JogoGenius\JogoGenius\bin\Debug\net8.0-windows\JogoGenius.pdb
+C:\Users\T_Julia.stefany\source\repos\JogoGenius\JogoGenius\obj\Debug\net8.0-windows\JogoGenius.Form1.resources
+C:\Users\T_Julia.stefany\source\repos\JogoGenius\JogoGenius\obj\Debug\net8.0-windows\JogoGenius.csproj.GenerateResource.cache
+C:\Users\T_Julia.stefany\source\repos\JogoGenius\JogoGenius\obj\Debug\net8.0-windows\JogoGenius.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\T_Julia.stefany\source\repos\JogoGenius\JogoGenius\obj\Debug\net8.0-windows\JogoGenius.AssemblyInfoInputs.cache
+C:\Users\T_Julia.stefany\source\repos\JogoGenius\JogoGenius\obj\Debug\net8.0-windows\JogoGenius.AssemblyInfo.cs
+C:\Users\T_Julia.stefany\source\repos\JogoGenius\JogoGenius\obj\Debug\net8.0-windows\JogoGenius.csproj.CoreCompileInputs.cache
+C:\Users\T_Julia.stefany\source\repos\JogoGenius\JogoGenius\obj\Debug\net8.0-windows\JogoGenius.dll
+C:\Users\T_Julia.stefany\source\repos\JogoGenius\JogoGenius\obj\Debug\net8.0-windows\refint\JogoGenius.dll
+C:\Users\T_Julia.stefany\source\repos\JogoGenius\JogoGenius\obj\Debug\net8.0-windows\JogoGenius.pdb
+C:\Users\T_Julia.stefany\source\repos\JogoGenius\JogoGenius\obj\Debug\net8.0-windows\JogoGenius.genruntimeconfig.cache
+C:\Users\T_Julia.stefany\source\repos\JogoGenius\JogoGenius\obj\Debug\net8.0-windows\ref\JogoGenius.dll
+C:\Users\T_Julia.stefany\source\repos\JogoGenius\JogoGenius\obj\Debug\net8.0-windows\JogoGenius.Properties.Resources.resources
